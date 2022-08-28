@@ -1,0 +1,125 @@
+{
+    "options": [
+        {
+          "value": "color",
+          "label": "Color",
+          "children": [
+            {
+              "value": "Black",
+              "label": "Black"
+            },
+            {
+                "value": "Blue",
+                "label": "Blue"
+            },
+            {
+                "value": "Golden",
+                "label": "Golden"
+            },
+            {
+                "value": "Red",
+                "label": "Red"
+            },
+            {
+                "value": "Silver",
+                "label": "Silver"
+            },
+            {
+                "value": "Metallic",
+                "label": "Metallic"
+            },
+            {
+                "value": "Undefined",
+                "label": "Undefined"
+            },
+            {
+                "value": "Brown",
+                "label": "Brown"
+            }
+          ]
+        },
+    
+    
+        {
+          "value": "category",
+          "label": "Category",
+          "children": [
+            {
+              "value": "Watches&Jewelry",
+              "label": "Watches&Jewelry"
+            },
+            {
+                "value": "Toys&Kids",
+                "label": "Toys&Kids"
+              },
+              {
+                "value": "Fun&Sports",
+                "label": "Fun&Sports"
+              },
+              {
+                "value": "Computers&Phones",
+                "label": "Computers&Phones"
+              }
+          ]
+        },
+    
+    
+        {
+            "value": "company",
+            "label": "Company",
+            "children": [
+              {
+                "value": "Aser",
+                "label": "Aser"
+              },
+              {
+                "value": "Asus",
+                "label": "Asus"
+              },
+              {
+                "value": "Masaka",
+                "label": "Masaka"
+              },
+              {
+                "value": "Homna",
+                "label": "Homna"
+              },
+              {
+                "value": "Shimano",
+                "label": "Shimano"
+              },
+              {
+                "value": "Molten",
+                "label": "Molten"
+              },
+              {
+                "value": "Ecco",
+                "label": "Ecco"
+              },
+              {
+                "value": "LEGO",
+                "label": "LEGO"
+              },
+              {
+                "value": "PlayWithComfort",
+                "label": "PlayWithComfort"
+              },
+              {
+                "value": "Koiyan",
+                "label": "Koiyan"
+              },
+              {
+                "value": "Bunderstag",
+                "label": "Bunderstag"
+              },
+              {
+                "value": "Rolex",
+                "label": "Rolex"
+              }
+            ]
+          }
+      ]
+
+
+
+}

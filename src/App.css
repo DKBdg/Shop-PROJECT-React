@@ -1,0 +1,128 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+.HeaderWrapper{
+  color: bisque;
+  
+  background-color: rgb(9, 192, 221);
+  font-family: 'Anek Malayalam', sans-serif;
+  font-size: 18px;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Link{
+  color: bisque;
+}
+.Link:hover{
+  color: rgb(120, 106, 89);
+}
+.ProductContainer:hover{
+
+  background-color: rgb(241, 227, 105);
+
+
+}
+.ProductContainer{
+  border: thin solid black;
+  width: 180px;
+  height: 350px;
+  margin: 10px;
+  background-color: rgb(242, 231, 131);
+  
+  
+}
+.ProductInfo{
+  margin: 10px;
+}
+.TopProductsWrapper{
+  border: thin solid black;
+  background-color: rgb(214, 250, 250);
+  display: flex;
+  justify-content: center;
+}
+.MainPageWrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Nodecor{
+  text-decoration: none;
+  color: black;
+}
+.rootwrap{
+  width: 100%;
+  height: 100%;
+}
+.Header{
+  background-color: azure;
+  font-size: large;
+  margin:30px;
+}
+.Count{
+  font-family: 'Titan One', cursive;
+  font-size: 60px;
+
+
+
+}
+
+
+.CommentWrapper{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  margin:40px;
+
+}
+
+.HorWrapper{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px;
+  background-color: azure;
+
+}
+
+.DescWrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+margin: 40px;
+}
+
+.SignWrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+  background-color: azure;
+  border-radius: 20px;
+  border: thin solid black;
+
+
+}
+.SpaceWrapper{
+  margin:30px;
+}
+
+.FooterWrapper{
+  color: bisque;
+  
+  background-color: rgb(9, 192, 221);
+  font-family: 'Anek Malayalam', sans-serif;
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+
+}

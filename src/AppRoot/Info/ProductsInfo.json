@@ -1,0 +1,354 @@
+ {
+    "Categories":[
+        { 
+            
+            
+            "CategoryID":1239,
+            "CategoryName":"Watches&Jewelry",
+
+            "Products":[
+            {
+                "ProductName":"Watch",
+                "Company":"Rolex",
+                "Price":2000,
+                "Currency":"USD",
+
+                "ProductID":0,
+                "Details":{
+                "Country": "USA",
+                "Color":"Black",
+                "Description":"Quartz System",
+                "CategoryID":1239,
+                "PhotoURL":"https://k8q7r7a2.stackpathcdn.com/wp-content/uploads/2018/09/Rolex-Tourbillon-Milgauss-modified-Label-Noir-4.jpg"
+                }
+            },
+            {
+                "ProductName":"Watch",
+                "Company":"Rolex",
+                "Price":150,
+                "Currency":"USD",
+                "ProductID":1,
+
+                "Details":{
+                    "Country": "China",
+                    "Color":"Red",
+                    "Description":"Mechanical System",
+                    "CategoryID":1239,
+                    "PhotoURL":"https://i.pinimg.com/736x/69/3b/7a/693b7a970e63a7c8cce38661db367aaf.jpg"
+                }
+
+            },
+            {
+                "ProductName":"Ring",
+                "Company":"Bunderstag",
+                "Price":500,
+                "Currency":"USD",
+                "ProductID":2,
+
+                "Details":{
+                    "Country": "Germany",
+                    "Color":"Golden",
+                    "Description":"5 gram of pure gold",
+                "CategoryID":1239,
+                "PhotoURL":"https://media.istockphoto.com/photos/golden-ring-with-diamond-isolated-on-the-white-picture-id530690735"
+
+                }
+
+
+            },
+            {
+                "ProductName":"Earing",
+                "Company":"Koiyan",
+                "Price":134,
+                "Currency":"USD",
+                "ProductID":3,
+
+
+                "Details":{
+                    "Country": "Kazakhstan",
+                    "Color":"Silver",
+                    "Description":"15 gram of pure silver",
+                "CategoryID":1239,
+                "PhotoURL":"https://www.kay.com/productimages/processed/V-133748400_0_800.jpg?pristine=true"
+
+                }
+            }
+
+
+
+
+        ]},
+
+
+
+        {
+            "CategoryID":9021,
+            "CategoryName":"Toys&Kids",
+            
+            "Products":
+            [
+
+        
+            {
+                "ProductName":"Pistol",
+                "Company":"PlayWithComfort",
+                "Price":6,
+                "Currency":"USD",
+                "ProductID":4,
+
+                "Details":{
+                    "Country": "UK",
+                    "Color":"Metallic",
+                    "Description":"It's a metallic pistol loaded with 1 gram weighed plastic bullets",
+            "CategoryID":9021,
+            "PhotoURL":"https://s7d2.scene7.com/is/image/academy/20833864?$pdp-gallery-ng$"
+
+                }
+
+
+
+
+
+
+            },
+            {
+                "ProductName":"HuggyWuggy",
+                "Company":"PlayWithComfort",
+                "Price":13,
+                "Currency":"USD",
+                "ProductID":5,
+
+                "Details":{
+                    "Country": "China",
+                    "Color":"Blue",
+                    "Description":"100% Cotton",
+            "CategoryID":9021,
+            "PhotoURL":"https://m.media-amazon.com/images/I/61gYpoYnaKL._AC_SY679_.jpg"
+                }
+
+
+            },
+            {
+                "ProductName":"MonsterTruck",
+                "Company":"LEGO",
+                "Price":45,
+                "Currency":"USD",
+                "ProductID":6,
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Undefined",
+                    "Description":"Only 12+",
+            "CategoryID":9021,
+            "PhotoURL":"https://www.lego.com/cdn/cs/set/assets/blt181bd8596abd9133/42118.jpg?fit=bounds&format=jpg&quality=80&width=1500&height=1500&dpr=1"
+                }
+
+            },
+            {
+                "ProductName":"Shoes",
+                "Company":"Ecco",
+                "Price":23,
+                "Currency":"USD",
+                "ProductID":7,
+
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Brown",
+                    "Description":"For kids between 6-10 years old with  the toe's size under 21",
+            "CategoryID":9021,
+            "PhotoURL":"https://www.efootwear.eu/media/catalog/product/cache/image/650x650/4/3/43141_2.jpg"
+
+                }
+
+
+
+
+
+
+
+            }
+
+
+
+
+        ]},
+        {
+            "CategoryID":8723,
+            
+            "CategoryName":"Fun&Sports",
+            "Products":
+            [
+            {
+                "ProductName":"BasketBallBall",
+                "Company":"Molten",
+                "Price":8,
+                "Currency":"USD",
+                "ProductID":8,
+
+
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Brown",
+                    "Description":"Type- GSX& , diameter 1 meter",
+            "CategoryID":8723,
+            "PhotoURL":"https://alba.sportyfied.com/thumbs/regular/gl7x_ad__99451.1461966775__700x700.png"
+                }
+            },
+            {
+                "ProductName":"BicycleWheel",
+                "Company":"Shimano",
+                "Price":26,
+                "Currency":"USD",
+                "ProductID":9,
+
+                "Details":{
+                    "Country": "Japan",
+                    "Color":"Black",
+                    "Description":"Bicycle Wheel with high quality and length roughly equaled 10 meters",
+            "CategoryID":8723,
+            "PhotoURL":"https://cd.bike-discount.de/media/image/a3/bd/cb/Shimano_WH-RS100-CL_Laufradsatz-EWHRS100FRCB.jpg"
+                }
+
+            },
+            {
+                "ProductName":"GolfClub",
+                "Company":"Homna",
+                "Price":51,
+                "Currency":"USD",
+                "ProductID":10,
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Metallic",
+                    "Description":"A UAQ-9 metallic club made for females with length 1.4 meters",
+            "CategoryID":8723,
+            "PhotoURL":"https://media.istockphoto.com/photos/the-golf-club-picture-id489773409"
+
+                }
+
+
+
+
+            },
+            {
+                "ProductName":"YogaMat",
+                "Company":"Homna",
+                "Price":17,
+                "Currency":"USD",
+                "ProductID":11,
+
+
+                "Details":{
+                    "Country": "China",
+                    "Color":"Blue",
+                    "Description":"YogaMat made out of Rubber with the area 1.5*1",
+            "CategoryID":8723,
+            "PhotoURL":"https://www.tunturi.org/website/Accessoires/14TUSYO035_6.jpg"
+
+                }
+
+
+            }
+
+
+
+
+        ]},
+
+
+        {
+            "CategoryID":3413,
+            
+            "CategoryName":"Computers&Phones",
+            
+            "Products":
+            [
+            {
+                "ProductName":"Notebook",
+                "Company":"Aser",
+                "Price":1400,
+                "Currency":"USD",
+                "ProductID":12,
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Black",
+                    "Description":"A gaming notebook with processor Core I9 and CPU GTX Geforce8900 ",
+                    "CategoryID":3413,
+                    "PhotoURL":"https://images.satu.kz/73825909_w640_h640_notebook-acer-aspire.jpg"
+                }
+
+
+            },
+            {
+                "ProductName":"PC",
+                "Company":"Asus",
+                "Price":900,
+                "Currency":"USD",
+                "ProductID":13,
+
+                "Details":{
+                    "Country": "USA",
+                    "Color":"Black",
+                    "Description":"A gaming PC with processor Core I5 and CPU GTX Geforce1200 covered by a  metallic box",
+                    "CategoryID":3413,
+                    "PhotoURL":"https://c1.neweggimages.com/ProductImage/83-221-709-V08.jpg"
+                }
+            },
+            {
+                "ProductName":"Screen Protector",
+                "Company":"Asus",
+                "Price":5,
+                "Currency":"USD",
+                "ProductID":14,
+
+
+                "Details":{
+                    "Country": "China",
+                    "Color":"Undefined",
+                    "Description":"Suitable for Samsung S10 , made out of glass",
+                    "CategoryID":3413,
+                    "PhotoURL":"http://cdn.shopify.com/s/files/1/0941/8828/products/iPhone13Pro_ScreenProtector_600x600_2109-094.png?v=1631690471"
+                }
+
+            },
+            {
+                "ProductName":"LED lights",
+                "Company":"Masaka",
+                "Price":3,
+                "Currency":"USD",
+                "ProductID":15,
+
+
+                "Details":{
+                    "Country": "China",
+                    "Color":"Red",
+                    "Description":"Lights are bright",
+                    "CategoryID":3413,
+                    "PhotoURL":"https://5.imimg.com/data5/BF/OE/QU/SELLER-33934024/red-led-strip-lights-500x500.jpg"
+
+                }
+            }
+
+
+
+
+
+
+        ]}
+
+
+
+
+
+
+        ]}
+
+
+
+
+
+
+
